@@ -1,0 +1,4 @@
+export CLOUD_USERNAME='cloud_user'
+export SSHPASS='6V8JJxPNAaXnHo'
+export PUBLIC_IP='54.183.141.2'
+
